@@ -7,6 +7,7 @@
 
 ## What we're building
 - [**Manasa**](https://github.com/AO-Software-eg/manasa): A template for a school learning platform for students and teachers, our **flagship** baby
+- [**j2pg**](https://github.com/AO-Software-eg/json2postgres): A fast, extensible C++ utility for inserting various types of json data into a postgres database
 
 ## Contact us
 <!--
