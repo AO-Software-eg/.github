@@ -1,3 +1,5 @@
+<img src="logo.jpeg" alt="AO Software logo" width="300">
+
 # AO Software
 ## Where high-quality application templates (and the tools that power them) reside.
 
